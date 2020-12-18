@@ -1,4 +1,4 @@
-mkdir public/api -p
+mkdir ./public/api -p
 mkdir ./tmp/checker -p
 mkdir ./tmp/parse -p
 mkdir ./tmp/api/
