@@ -8,7 +8,7 @@
 
 ## Demo
 
-https://chrome-dl.com
+https://chr.nan.ge
 
 ## API for CheckChrome
 
