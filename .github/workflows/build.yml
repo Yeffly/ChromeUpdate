@@ -27,7 +27,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       # 安装依赖
-      - name: Run a one-line script
+      - name: 安装依赖
         run: |
           sudo apt-get -y install libxml2-utils
           
