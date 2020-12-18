@@ -16,7 +16,7 @@ rm -rf ./*
 cp -rf ../public/* ../_deploy/
 
 touch CNAME
-echo 'chromedl.uk.to' > ./CNAME
+echo 'chr.nan.ge' > ./CNAME
 
 git add --all .
 git commit -m "Daily check of Chrome offline packages by Travis CI"
