@@ -1,6 +1,6 @@
 # CheckChrome
 
-🌐 Yet another chrome offline package download page generator.
+> Yet another chrome offline package download page generator.
 
 [![Author](https://img.shields.io/badge/Author-Sukka-b68469.svg?style=flat-square)](https://skk.moe)
 [![Build Status](https://img.shields.io/travis/SukkaW/CheckChrome.svg?style=flat-square)](https://travis-ci.org/SukkaW/CheckChrome)
