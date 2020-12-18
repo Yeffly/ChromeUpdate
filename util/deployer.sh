@@ -9,7 +9,7 @@ cd ./_deploy
 git init
 git config --global push.default matching
 git config --global user.email admin@nange.cn
-git config --global user.name 佩佩
+git config --global user.name XOS
 git remote add origin https://github.com/XOS/CheckChrome.git
 git pull origin gh-pages
 rm -rf ./*
