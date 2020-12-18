@@ -37,3 +37,13 @@ jobs:
           cd $GITHUB_WORKSPACE
           sudo chmod +x run.sh
           ./run.sh
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
+      - name: Run Build Script
+        run: |
+          touch CNAME
+           echo 'chr.nan.ge' > ./CNAME     
