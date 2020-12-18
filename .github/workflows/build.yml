@@ -26,9 +26,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
+      # 安装依赖
       - name: Run a one-line script
         run: |
+          sudo apt-get -y install libxml2-utils
+          
+      # Runs a single command using the runners shell
+      - name: Run Build Script
+        run: |
+          cd $GITHUB_WORKSPACE
           sudo chmod +x run.sh
           ./run.sh
