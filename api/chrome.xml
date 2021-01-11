@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-01-10 20:38:41</time>
+  <time>2021-01-11 09:19:09</time>
   <stable32>
     <version>87.0.4280.141</version>
     <download>
@@ -38,13 +38,13 @@
     <size>70798200</size>
   </beta64>
   <dev32>
-    <version>89.0.4381.7</version>
+    <version>89.0.4381.8</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/BJAZxPwhCLXj5y3J5LOP3w_89.0.4381.7/89.0.4381.7_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/BJAZxPwhCLXj5y3J5LOP3w_89.0.4381.7/89.0.4381.7_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/K0jDTCm_CnvSfvcnx5l7XA_89.0.4381.8/89.0.4381.8_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/K0jDTCm_CnvSfvcnx5l7XA_89.0.4381.8/89.0.4381.8_chrome_installer.exe</url>
     </download>
-    <sha256>83f91d0214878343a59a6050b68acefc557d741372f633a75ee74ff2ceb1b182</sha256>
-    <size>67983224</size>
+    <sha256>43535ac1af9272650b744d3f56a6664cafc8178f0e846a5e759d5c1e3c4065a9</sha256>
+    <size>68047232</size>
   </dev32>
   <dev64>
     <version>89.0.4381.8</version>
@@ -56,13 +56,13 @@
     <size>70655872</size>
   </dev64>
   <canary32>
-    <version>89.0.4384.0</version>
+    <version>89.0.4384.1</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/R7KUkBPfBzeYLxwE1ZWfYQ_89.0.4384.0/89.0.4384.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/R7KUkBPfBzeYLxwE1ZWfYQ_89.0.4384.0/89.0.4384.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AKLAa2s8nTjLj-0aguYA3-U_89.0.4384.1/89.0.4384.1_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AKLAa2s8nTjLj-0aguYA3-U_89.0.4384.1/89.0.4384.1_chrome_installer.exe</url>
     </download>
-    <sha256>ebf6abfdc6f0b8dcd10d4211b3d3843473c309791dd7b45c4d3bc521493fc447</sha256>
-    <size>68091776</size>
+    <sha256>8d998710f7ae3e4084783950b64e099f50e83856de4b0c2b95cf7ff630d5b6ab</sha256>
+    <size>83237760</size>
   </canary32>
   <canary64>
     <version>89.0.4384.0</version>
