@@ -11,7 +11,7 @@ do
     dl_alt_base=$(sed -n '3p' ./tmp/parse/${i}-result.info)
     dl_file=$(sed -n '4p' ./tmp/parse/${i}-result.info)
     dl=${dl_base}${dl_file}
-    dl_alt="${dl_alt_base}${dl_file}
+    dl_alt=${dl_alt_base}${dl_file}
     dl_cache=${cache}${dl_alt_base}${dl_file}
     sha256=$(sed -n '5p' ./tmp/parse/${i}-result.info)
     size_raw=$(sed -n '6p' ./tmp/parse/${i}-result.info)
