@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-03-15 08:53:45</time>
+  <time>2021-03-15 20:32:43</time>
   <stable32>
     <version>ENDurls</version>
     <download>
@@ -11,13 +11,13 @@
     <size>89.0.4389.90_chrome_installer.exe</size>
   </stable32>
   <stable64>
-    <version>ENDurls</version>
+    <version>89.0.4389.90</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/GhyeF19qcgzTvU87ncEAdQ_89.0.4389.90/d03c131685f0c0899a0740313c5a319f30947d57000c537f92095bf6f7a02912</url>
-      <url>https://http://dl.google.com/release2/chrome/GhyeF19qcgzTvU87ncEAdQ_89.0.4389.90/d03c131685f0c0899a0740313c5a319f30947d57000c537f92095bf6f7a02912</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/GhyeF19qcgzTvU87ncEAdQ_89.0.4389.90/89.0.4389.90_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/GhyeF19qcgzTvU87ncEAdQ_89.0.4389.90/89.0.4389.90_chrome_installer.exe</url>
     </download>
-    <sha256>VALUE=57zdTeikLtxbkswIg8RSnPjjwKI=</sha256>
-    <size>89.0.4389.90_chrome_installer.exe</size>
+    <sha256>d03c131685f0c0899a0740313c5a319f30947d57000c537f92095bf6f7a02912</sha256>
+    <size>71990648</size>
   </stable64>
   <beta32>
     <version>ENDurls</version>
