@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-04-01 08:20:37</time>
+  <time>2021-04-01 20:08:30</time>
   <stable32>
-    <version>89.0.4389.114</version>
+    <version>ENDurls</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AJoG-hcDJqbwg_TFBj9eH-g_89.0.4389.114/89.0.4389.114_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AJoG-hcDJqbwg_TFBj9eH-g_89.0.4389.114/89.0.4389.114_chrome_installer.exe</url>
+      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/AJoG-hcDJqbwg_TFBj9eH-g_89.0.4389.114/3969d7152a95c57aae987700410b2dd9a184e03a35736fba767e9979caff1693</url>
+      <url>https://http://dl.google.com/release2/chrome/AJoG-hcDJqbwg_TFBj9eH-g_89.0.4389.114/3969d7152a95c57aae987700410b2dd9a184e03a35736fba767e9979caff1693</url>
     </download>
-    <sha256>3969d7152a95c57aae987700410b2dd9a184e03a35736fba767e9979caff1693</sha256>
-    <size>69525880</size>
+    <sha256>VALUE=kRp2dP6OL8EY/AQhe70yYX/fhfU=</sha256>
+    <size>89.0.4389.114_chrome_installer.exe</size>
   </stable32>
   <stable64>
     <version>89.0.4389.114</version>
@@ -47,13 +47,13 @@
     <size>73772928</size>
   </dev32>
   <dev64>
-    <version>ENDurls</version>
+    <version>91.0.4455.2</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/AL_whYOKDMQGOqlcjgp7FYU_91.0.4455.2/5683e22557cb5f4da15a216394807a33193c772f88a4f5e001f9e866f5841098</url>
-      <url>https://http://dl.google.com/release2/chrome/AL_whYOKDMQGOqlcjgp7FYU_91.0.4455.2/5683e22557cb5f4da15a216394807a33193c772f88a4f5e001f9e866f5841098</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AL_whYOKDMQGOqlcjgp7FYU_91.0.4455.2/91.0.4455.2_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AL_whYOKDMQGOqlcjgp7FYU_91.0.4455.2/91.0.4455.2_chrome_installer.exe</url>
     </download>
-    <sha256>VALUE=HxUmbl0z8+GDnOrFt5dT8mG5Jfs=</sha256>
-    <size>91.0.4455.2_chrome_installer.exe</size>
+    <sha256>5683e22557cb5f4da15a216394807a33193c772f88a4f5e001f9e866f5841098</sha256>
+    <size>76310904</size>
   </dev64>
   <canary32>
     <version>ENDurls</version>
