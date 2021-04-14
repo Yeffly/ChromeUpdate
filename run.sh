@@ -31,5 +31,6 @@ cp -rf src/assets public/assets
 cp -rf src/semantic.min.css public/semantic.min.css
 cp -rf tmp/api/chrome.xml public/api/chrome.xml
 cp -rf tmp/api/chrome.min.xml public/api/chrome.min.xml
+rm -rf tmp
 
 #./util/deployer.sh
