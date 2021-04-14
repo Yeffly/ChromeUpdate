@@ -1,3 +1,4 @@
+sudo apt-get -y install libxml2-utils
 mkdir ./public/api -p
 mkdir ./tmp/checker -p
 mkdir ./tmp/parse -p
@@ -26,6 +27,8 @@ xmllint --format tmp/chrome.xml > tmp/api/chrome.xml
 xmllint --noblanks tmp/chrome.xml > tmp/api/chrome.min.xml
 
 cp -rf tmp/index.html public/index.html
+cp -rf src/assets public/assets
+cp -rf src/semantic.min.css public/semantic.min.css
 cp -rf tmp/api/chrome.xml public/api/chrome.xml
 cp -rf tmp/api/chrome.min.xml public/api/chrome.min.xml
 
