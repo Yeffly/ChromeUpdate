@@ -1,9 +1,9 @@
-# CheckChrome
+# ChromeUpdate
 
 > Yet another chrome offline package download page generator.
 
 [![Author](https://img.shields.io/badge/Author-Sukka-b68469.svg?style=flat-square)](https://skk.moe)
-[![License](https://img.shields.io/github/license/sukkaw/CheckChrome.svg?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/github/license/XOS/ChromeUpdate.svg?style=flat-square)](./LICENSE)
 
 ## Demo
 
@@ -16,13 +16,13 @@ XML Format Output
 ### Not compressed (For development)
 
 ```
-GET https://chrome-dl.com/api/chrome.xml
+GET https://chr.nan.ge/api/chrome.xml
 ```
 
 ### Compressed (For production)
 
 ```
-GET https://chrome-dl.com/api/chrome.min.xml
+GET https://chr.nan.ge/api/chrome.min.xml
 ```
 
 ## Advanced - Google Updater (Omaha) API
