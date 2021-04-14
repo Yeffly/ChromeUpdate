@@ -15,7 +15,7 @@ do
     sed -i 's| ATTRIBUTE=hash |\n|g' ./tmp/parse/${i}.info
     sed -i 's| ATTRIBUTE=name VALUE=|\n|g' ./tmp/parse/${i}.info
     sed -i 's| ATTRIBUTE=required VALUE=true ATTRIBUTE=size VALUE=|\n|g' ./tmp/parse/${i}.info
-    sed -i 's| ATTRIBUTE=hash_sha256 VALUE=|\n|g' ./tmp/parse/${i}.info
+    #sed -i 's| ATTRIBUTE=hash VALUE=|\n|g' ./tmp/parse/${i}.info
     sed -i 's|    ELEMENT=time ATTRIBUTE=checktime VALUE=||g' ./tmp/parse/${i}.info
     sed -i 's|https://||g' ./tmp/parse/${i}.info
     sed -i 's| ||g' ./tmp/parse/${i}.info
