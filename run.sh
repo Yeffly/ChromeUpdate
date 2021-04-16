@@ -14,6 +14,8 @@ chmod +x ./util/deployer.sh
 
 ./util/parse.sh stable-x86 stable-x64 beta-x86 beta-x64 dev-x86 dev-x64 canary-x86 canary-x64
 
+./util/parse-mac.sh stable-inter stable-m1 beta-inter beta-m1 dev-inter dev-m1 canary-inter canary-m1
+
 cp -rf src/index.html tmp/index.html
 cp -rf src/chrome.xml tmp/chrome.xml
 
@@ -23,11 +25,13 @@ sed -i "s|{{CheckTime}}|$DATE|g" tmp/chrome.xml
 
 ./util/generator.sh stable-x86 stable-x64 beta-x86 beta-x64 dev-x86 dev-x64 canary-x86 canary-x64
 
+./util/generator-mac.sh stable-inter stable-m1 beta-inter beta-m1 dev-inter dev-m1 canary-inter canary-m1
+
 xmllint --format tmp/chrome.xml > tmp/api/chrome.xml
 xmllint --noblanks tmp/chrome.xml > tmp/api/chrome.min.xml
 
 cp -rf tmp/index.html public/index.html
-cp -rf src/assets public/assets
+cp -rf src/assets public
 cp -rf src/semantic.min.css public/semantic.min.css
 cp -rf tmp/api/chrome.xml public/api/chrome.xml
 cp -rf tmp/api/chrome.min.xml public/api/chrome.min.xml

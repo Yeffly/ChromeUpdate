@@ -40,7 +40,7 @@ curl -s "https://tools.google.com/service/update2" --data "<?xml version='1.0' e
                      requestid='{CD7523AD-A40D-49F4-AEEF-8C114B804658}' dedup='cr'>
             <hw sse='1' sse2='1' sse3='1' ssse3='1' sse41='1' sse42='1' avx='1' physmemory='12582912' />
             <os platform='win' version='6.3' arch='x86'/>
-            <app appid='{8A69D345-D564-463C-AFF1-A69D9E530F96}' ap='1.1-beta' version='' nextversion='' lang='' brand='GGLS' client=''>
+            <app appid='{8237E44A-0054-442C-B6B6-EA0509993955}' ap='1.1-beta' version='' nextversion='' lang='' brand='GGLS' client=''>
                 <updatecheck/>
             </app>
             </request>" > ./tmp/checker/beta-x86.xml
@@ -55,7 +55,7 @@ curl -s "https://tools.google.com/service/update2" --data "<?xml version='1.0' e
                      requestid='{CD7523AD-A40D-49F4-AEEF-8C114B804658}' dedup='cr'>
             <hw sse='1' sse2='1' sse3='1' ssse3='1' sse41='1' sse42='1' avx='1' physmemory='12582912' />
             <os platform='win' version='6.3' arch='x64'/>
-            <app appid='{8A69D345-D564-463C-AFF1-A69D9E530F96}' ap='x64-beta-multi-chrome' version='' nextversion='' lang='' brand='GGLS' client=''>
+            <app appid='{8237E44A-0054-442C-B6B6-EA0509993955}' ap='x64-beta-multi-chrome' version='' nextversion='' lang='' brand='GGLS' client=''>
                 <updatecheck/>
             </app>
             </request>" > ./tmp/checker/beta-x64.xml
@@ -70,7 +70,7 @@ curl -s "https://tools.google.com/service/update2" --data "<?xml version='1.0' e
                      requestid='{CD7523AD-A40D-49F4-AEEF-8C114B804658}' dedup='cr'>
             <hw sse='1' sse2='1' sse3='1' ssse3='1' sse41='1' sse42='1' avx='1' physmemory='12582912' />
             <os platform='win' version='6.3' arch='x86'/>
-            <app appid='{8A69D345-D564-463C-AFF1-A69D9E530F96}' ap='2.0-dev' version='' nextversion='' lang='' brand='GGLS' client=''>
+            <app appid='{401C381F-E0DE-4B85-8BD8-3F3F14FBDA57}' ap='2.0-dev' version='' nextversion='' lang='' brand='GGLS' client=''>
                 <updatecheck/>
             </app>
             </request>" > ./tmp/checker/dev-x86.xml
@@ -85,7 +85,7 @@ curl -s "https://tools.google.com/service/update2" --data "<?xml version='1.0' e
                      requestid='{CD7523AD-A40D-49F4-AEEF-8C114B804658}' dedup='cr'>
             <hw sse='1' sse2='1' sse3='1' ssse3='1' sse41='1' sse42='1' avx='1' physmemory='12582912' />
             <os platform='win' version='6.3' arch='x64'/>
-            <app appid='{8A69D345-D564-463C-AFF1-A69D9E530F96}' ap='x64-dev-multi-chrome' version='' nextversion='' lang='' brand='GGLS' client=''>
+            <app appid='{401C381F-E0DE-4B85-8BD8-3F3F14FBDA57}' ap='x64-dev-multi-chrome' version='' nextversion='' lang='' brand='GGLS' client=''>
                 <updatecheck/>
             </app>
             </request>" > ./tmp/checker/dev-x64.xml

@@ -2,83 +2,163 @@
 <chromechecker>
   <time>{{CheckTime}}</time>
   <stable32>
-    <version>{{stable-x86-Version}}</version>
+    <version>{{stable-x86-version}}</version>
     <download>
       <url>{{stable-x86-dl-main}}</url>
       <url>{{stable-x86-dl-alternative}}</url>
       <url>{{stable-x86-dl-slave}}</url>
     </download>
-    <sha256>{{stable-x86-HASH}}</sha256>
-    <size>{{stable-x86-Size}}</size>
+    <sha256>{{stable-x86-hash}}</sha256>
+    <size>{{stable-x86-size}}</size>
   </stable32>
   <stable64>
-    <version>{{stable-x64-Version}}</version>
+    <version>{{stable-x64-version}}</version>
     <download>
       <url>{{stable-x64-dl-main}}</url>
       <url>{{stable-x64-dl-alternative}}</url>
       <url>{{stable-x64-dl-slave}}</url>
     </download>
-    <sha256>{{stable-x64-HASH}}</sha256>
-    <size>{{stable-x64-Size}}</size>
+    <sha256>{{stable-x64-hash}}</sha256>
+    <size>{{stable-x64-size}}</size>
   </stable64>
   <beta32>
-    <version>{{beta-x86-Version}}</version>
+    <version>{{beta-x86-version}}</version>
     <download>
       <url>{{beta-x86-dl-main}}</url>
       <url>{{beta-x86-dl-alternative}}</url>
       <url>{{beta-x86-dl-slave}}</url>
     </download>
-    <sha256>{{beta-x86-HASH}}</sha256>
-    <size>{{beta-x86-Size}}</size>
+    <sha256>{{beta-x86-hash}}</sha256>
+    <size>{{beta-x86-size}}</size>
   </beta32>
   <beta64>
-    <version>{{beta-x64-Version}}</version>
+    <version>{{beta-x64-version}}</version>
     <download>
       <url>{{beta-x64-dl-main}}</url>
       <url>{{beta-x64-dl-alternative}}</url>
       <url>{{beta-x64-dl-slave}}</url>
     </download>
-    <sha256>{{beta-x64-HASH}}</sha256>
-    <size>{{beta-x64-Size}}</size>
+    <sha256>{{beta-x64-hash}}</sha256>
+    <size>{{beta-x64-size}}</size>
   </beta64>
   <dev32>
-    <version>{{dev-x86-Version}}</version>
+    <version>{{dev-x86-version}}</version>
     <download>
       <url>{{dev-x86-dl-main}}</url>
       <url>{{dev-x86-dl-alternative}}</url>
       <url>{{dev-x86-dl-slave}}</url>
     </download>
-    <sha256>{{dev-x86-HASH}}</sha256>
-    <size>{{dev-x86-Size}}</size>
+    <sha256>{{dev-x86-hash}}</sha256>
+    <size>{{dev-x86-size}}</size>
   </dev32>
   <dev64>
-    <version>{{dev-x64-Version}}</version>
+    <version>{{dev-x64-version}}</version>
     <download>
       <url>{{dev-x64-dl-main}}</url>
       <url>{{dev-x64-dl-alternative}}</url>
       <url>{{dev-x64-dl-slave}}</url>
     </download>
-    <sha256>{{dev-x64-HASH}}</sha256>
-    <size>{{dev-x64-Size}}</size>
+    <sha256>{{dev-x64-hash}}</sha256>
+    <size>{{dev-x64-size}}</size>
   </dev64>
   <canary32>
-    <version>{{canary-x86-Version}}</version>
+    <version>{{canary-x86-version}}</version>
     <download>
       <url>{{canary-x86-dl-main}}</url>
       <url>{{canary-x86-dl-alternative}}</url>
       <url>{{canary-x86-dl-slave}}</url>
     </download>
-    <sha256>{{canary-x86-HASH}}</sha256>
-    <size>{{canary-x86-Size}}</size>
+    <sha256>{{canary-x86-hash}}</sha256>
+    <size>{{canary-x86-size}}</size>
   </canary32>
   <canary64>
-    <version>{{canary-x64-Version}}</version>
+    <version>{{canary-x64-version}}</version>
     <download>
       <url>{{canary-x64-dl-main}}</url>
       <url>{{canary-x64-dl-alternative}}</url>
       <url>{{canary-x64-dl-slave}}</url>
     </download>
-    <sha256>{{canary-x64-HASH}}</sha256>
-    <size>{{canary-x64-Size}}</size>
+    <sha256>{{canary-x64-hash}}</sha256>
+    <size>{{canary-x64-size}}</size>
   </canary64>
+  <stablem1>
+    <version>{{stable-m1-version}}</version>
+    <download>
+      <url>{{stable-m1-dl-main}}</url>
+      <url>{{stable-m1-dl-alternative}}</url>
+      <url>{{stable-m1-dl-slave}}</url>
+    </download>
+    <sha256>{{stable-m1-hash}}</sha256>
+    <size>{{stable-m1-size}}</size>
+  </stablem1>
+  <stableinter>
+    <version>{{stable-inter-version}}</version>
+    <download>
+      <url>{{stable-inter-dl-main}}</url>
+      <url>{{stable-inter-dl-alternative}}</url>
+      <url>{{stable-inter-dl-slave}}</url>
+    </download>
+    <sha256>{{stable-inter-hash}}</sha256>
+    <size>{{stable-inter-size}}</size>
+  </stableinter>
+  <devm1>
+    <version>{{beta-m1-version}}</version>
+    <download>
+      <url>{{beta-m1-dl-main}}</url>
+      <url>{{beta-m1-dl-alternative}}</url>
+      <url>{{beta-m1-dl-slave}}</url>
+    </download>
+    <sha256>{{beta-m1-hash}}</sha256>
+    <size>{{beta-m1-size}}</size>
+  </devm1>
+  <devinter>
+    <version>{{beta-inter-version}}</version>
+    <download>
+      <url>{{beta-inter-dl-main}}</url>
+      <url>{{beta-inter-dl-alternative}}</url>
+      <url>{{beta-inter-dl-slave}}</url>
+    </download>
+    <sha256>{{beta-inter-hash}}</sha256>
+    <size>{{beta-inter-size}}</size>
+  </devinter>
+  <devm1>
+    <version>{{dev-m1-version}}</version>
+    <download>
+      <url>{{dev-m1-dl-main}}</url>
+      <url>{{dev-m1-dl-alternative}}</url>
+      <url>{{dev-m1-dl-slave}}</url>
+    </download>
+    <sha256>{{dev-m1-hash}}</sha256>
+    <size>{{dev-m1-size}}</size>
+  </devm1>
+  <devinter>
+    <version>{{dev-inter-version}}</version>
+    <download>
+      <url>{{dev-inter-dl-main}}</url>
+      <url>{{dev-inter-dl-alternative}}</url>
+      <url>{{dev-inter-dl-slave}}</url>
+    </download>
+    <sha256>{{dev-inter-hash}}</sha256>
+    <size>{{dev-inter-size}}</size>
+  </devinter>
+  <canarym1>
+    <version>{{canary-m1-version}}</version>
+    <download>
+      <url>{{canary-m1-dl-main}}</url>
+      <url>{{canary-m1-dl-alternative}}</url>
+      <url>{{canary-m1-dl-slave}}</url>
+    </download>
+    <sha256>{{canary-m1-hash}}</sha256>
+    <size>{{canary-m1-size}}</size>
+  </canarym1>
+  <canaryinter>
+    <version>{{canary-inter-version}}</version>
+    <download>
+      <url>{{canary-inter-dl-main}}</url>
+      <url>{{canary-inter-dl-alternative}}</url>
+      <url>{{canary-inter-dl-slave}}</url>
+    </download>
+    <sha256>{{canary-inter-hash}}</sha256>
+    <size>{{canary-inter-size}}</size>
+  </canaryinter>
 </chromechecker>
