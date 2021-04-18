@@ -9,6 +9,8 @@ chmod +x ./util/xmlparser.sh
 chmod +x ./util/parse.sh
 chmod +x ./util/generator.sh
 chmod +x ./util/deployer.sh
+chmod +x ./util/parse-mac.sh
+chmod +x ./util/generator-mac.sh
 
 ./util/checker.sh
 
