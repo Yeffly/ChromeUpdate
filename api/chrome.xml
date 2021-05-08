@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-05-07 20:31:34</time>
+  <time>2021-05-08 09:02:04</time>
   <stable32>
     <version>90.0.4430.93</version>
     <download>
@@ -42,14 +42,14 @@
     <size>76248448</size>
   </beta64>
   <dev32>
-    <version>92.0.4496.2</version>
+    <version>92.0.4496.3</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/Zqi3ZwEtiXgeTpsmJWaP1Q_92.0.4496.2/92.0.4496.2_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/Zqi3ZwEtiXgeTpsmJWaP1Q_92.0.4496.2/92.0.4496.2_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/Zqi3ZwEtiXgeTpsmJWaP1Q_92.0.4496.2/92.0.4496.2_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/ALVMlk6VOCkviMMSfr-A87Y_92.0.4496.3/92.0.4496.3_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ALVMlk6VOCkviMMSfr-A87Y_92.0.4496.3/92.0.4496.3_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/ALVMlk6VOCkviMMSfr-A87Y_92.0.4496.3/92.0.4496.3_chrome_installer.exe</url>
     </download>
-    <sha256>10786b30484019e02ad479388bc26375604f262e22e004548951eb1055910186</sha256>
-    <size>69674872</size>
+    <sha256>3765dc706e61235b5d568d54264c47b328b623d3d223b9779f3d1743cbaa54ec</sha256>
+    <size>74564480</size>
   </dev32>
   <dev64>
     <version>92.0.4496.3</version>
@@ -72,14 +72,14 @@
     <size>75033976</size>
   </canary32>
   <canary64>
-    <version>92.0.4500.0</version>
+    <version>92.0.4500.2</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/D9lrnvpTcZP99tGM3x-scw_92.0.4500.0/92.0.4500.0_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/D9lrnvpTcZP99tGM3x-scw_92.0.4500.0/92.0.4500.0_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/D9lrnvpTcZP99tGM3x-scw_92.0.4500.0/92.0.4500.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/B_kSlXhAtiiJzNCdDGDYzw_92.0.4500.2/92.0.4500.2_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/B_kSlXhAtiiJzNCdDGDYzw_92.0.4500.2/92.0.4500.2_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/B_kSlXhAtiiJzNCdDGDYzw_92.0.4500.2/92.0.4500.2_chrome_installer.exe</url>
     </download>
-    <sha256>8c82a09073cd9b35bd35a6912dc28c9815b74b825f4cfe42594809c5edc27649</sha256>
-    <size>77349248</size>
+    <sha256>826e6cdcc278701d763f296a48d529f6cd0c9418c0e454e0034d3ed76895f059</sha256>
+    <size>77737336</size>
   </canary64>
   <stablem1>
     <version>90.0.4430.93</version>
@@ -122,14 +122,14 @@
     <size>76248448</size>
   </devinter>
   <devm1>
-    <version>92.0.4496.2</version>
+    <version>92.0.4496.3</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>10786b30484019e02ad479388bc26375604f262e22e004548951eb1055910186</sha256>
-    <size>69674872</size>
+    <sha256>3765dc706e61235b5d568d54264c47b328b623d3d223b9779f3d1743cbaa54ec</sha256>
+    <size>74564480</size>
   </devm1>
   <devinter>
     <version>92.0.4496.3</version>
@@ -152,13 +152,13 @@
     <size>75033976</size>
   </canarym1>
   <canaryinter>
-    <version>92.0.4500.0</version>
+    <version>92.0.4500.2</version>
     <download>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
     </download>
-    <sha256>8c82a09073cd9b35bd35a6912dc28c9815b74b825f4cfe42594809c5edc27649</sha256>
-    <size>77349248</size>
+    <sha256>826e6cdcc278701d763f296a48d529f6cd0c9418c0e454e0034d3ed76895f059</sha256>
+    <size>77737336</size>
   </canaryinter>
 </chromechecker>
