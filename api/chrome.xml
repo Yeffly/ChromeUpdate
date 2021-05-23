@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-05-22 20:35:10</time>
+  <time>2021-05-23 09:20:47</time>
   <stable32>
     <version>90.0.4430.212</version>
     <download>
@@ -52,14 +52,14 @@
     <size>75113400</size>
   </dev32>
   <dev64>
-    <version>92.0.4512.3</version>
+    <version>92.0.4512.6</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/CPF6Rk_YzVHbln6omaZMdQ_92.0.4512.3/92.0.4512.3_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/CPF6Rk_YzVHbln6omaZMdQ_92.0.4512.3/92.0.4512.3_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/CPF6Rk_YzVHbln6omaZMdQ_92.0.4512.3/92.0.4512.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/J4mK1IvHyR2kaz2fETc94g_92.0.4512.6/92.0.4512.6_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/J4mK1IvHyR2kaz2fETc94g_92.0.4512.6/92.0.4512.6_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/J4mK1IvHyR2kaz2fETc94g_92.0.4512.6/92.0.4512.6_chrome_installer.exe</url>
     </download>
-    <sha256>5c89b26c4f31c1ae0d9903de2755d93e98c1503fbc2ad380f2af7658b17ecf62</sha256>
-    <size>78250424</size>
+    <sha256>5d835769b4315ffd98cfef45c6602b079ba65cf8a0def0966290dc60231fd1b3</sha256>
+    <size>77877176</size>
   </dev64>
   <canary32>
     <version>92.0.4515.5</version>
@@ -132,14 +132,14 @@
     <size>75113400</size>
   </devm1>
   <devinter>
-    <version>92.0.4512.3</version>
+    <version>92.0.4512.6</version>
     <download>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>5c89b26c4f31c1ae0d9903de2755d93e98c1503fbc2ad380f2af7658b17ecf62</sha256>
-    <size>78250424</size>
+    <sha256>5d835769b4315ffd98cfef45c6602b079ba65cf8a0def0966290dc60231fd1b3</sha256>
+    <size>77877176</size>
   </devinter>
   <canarym1>
     <version>92.0.4515.5</version>
