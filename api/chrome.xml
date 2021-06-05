@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-06-04 21:09:02</time>
+  <time>2021-06-05 09:44:17</time>
   <stable32>
     <version>91.0.4472.77</version>
     <download>
@@ -42,14 +42,14 @@
     <size>77085624</size>
   </beta64>
   <dev32>
-    <version>93.0.4530.3</version>
+    <version>93.0.4530.5</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/APZzgP7F8p9NGxOSHQ63lec_93.0.4530.3/93.0.4530.3_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/APZzgP7F8p9NGxOSHQ63lec_93.0.4530.3/93.0.4530.3_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/APZzgP7F8p9NGxOSHQ63lec_93.0.4530.3/93.0.4530.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/ZjP53oW0eA2xAp7aHCQxkQ_93.0.4530.5/93.0.4530.5_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ZjP53oW0eA2xAp7aHCQxkQ_93.0.4530.5/93.0.4530.5_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/ZjP53oW0eA2xAp7aHCQxkQ_93.0.4530.5/93.0.4530.5_chrome_installer.exe</url>
     </download>
-    <sha256>f62a8749b66067f17195ec692c43f7b8a35f0236d07aee83b9a400bb49c92316</sha256>
-    <size>75756984</size>
+    <sha256>e4ea3a8816ba7c3ef53d48e0037c3a36fc577dd334942c658ec6aa0df90f415f</sha256>
+    <size>75422136</size>
   </dev32>
   <dev64>
     <version>93.0.4530.5</version>
@@ -122,14 +122,14 @@
     <size>77085624</size>
   </devinter>
   <devm1>
-    <version>93.0.4530.3</version>
+    <version>93.0.4530.5</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>f62a8749b66067f17195ec692c43f7b8a35f0236d07aee83b9a400bb49c92316</sha256>
-    <size>75756984</size>
+    <sha256>e4ea3a8816ba7c3ef53d48e0037c3a36fc577dd334942c658ec6aa0df90f415f</sha256>
+    <size>75422136</size>
   </devm1>
   <devinter>
     <version>93.0.4530.5</version>
