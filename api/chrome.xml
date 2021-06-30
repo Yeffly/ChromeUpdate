@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-06-29 20:31:18</time>
+  <time>2021-06-30 09:04:29</time>
   <stable32>
     <version>91.0.4472.124</version>
     <download>
@@ -42,26 +42,36 @@
     <size>77241272</size>
   </beta64>
   <dev32>
-    <version>93.0.4549.3</version>
+    <version>93.0.4557.2</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/APWihmzdNcvv-mp2t7U6SHs_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/APWihmzdNcvv-mp2t7U6SHs_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/APWihmzdNcvv-mp2t7U6SHs_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/GQ5DYiF9HIkh37djZk3z3g_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/GQ5DYiF9HIkh37djZk3z3g_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/GQ5DYiF9HIkh37djZk3z3g_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
     </download>
-    <sha256>a784d6cc3e8cd87a67b5929df56ff73d55141160b9340d72e46be74a46ee0180</sha256>
-    <size>75682232</size>
+    <sha256>1f94f00918ae439f2dda69789aabbe81c9d77b6acb69967e9d4ac17f3a2fd2da</sha256>
+    <size>76159416</size>
   </dev32>
   <dev64>
-    <version>93.0.4549.3</version>
+    <version>93.0.4557.2</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/ALmivlTW9ZayX2WhSHgduug_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ALmivlTW9ZayX2WhSHgduug_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/ALmivlTW9ZayX2WhSHgduug_93.0.4549.3/93.0.4549.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/BI5AOPyrf6a8j3c0MbfXHA_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/BI5AOPyrf6a8j3c0MbfXHA_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/BI5AOPyrf6a8j3c0MbfXHA_93.0.4557.2/93.0.4557.2_chrome_installer.exe</url>
     </download>
-    <sha256>e15ca743e95096df5a76841600d108eb5ac4a9fe084a4a5f185e0848be9a4d5d</sha256>
-    <size>78605240</size>
+    <sha256>45c9be9be6d3c6f7cff511cc26c76ef6b54fd685eca82551ab9a92a6771ab951</sha256>
+    <size>79083960</size>
   </dev64>
   <canary32>
+    <version>93.0.4558.0</version>
+    <download>
+      <url>https://dl.google.com/release2/chrome/FVqhAJUdPpmUxpzVOO-Bqw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/FVqhAJUdPpmUxpzVOO-Bqw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/FVqhAJUdPpmUxpzVOO-Bqw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
+    </download>
+    <sha256>d36b5f2c4dc0852814f08d66b4e69b760982afce1dacaeb1503a13c20ff06503</sha256>
+    <size>75919800</size>
+  </canary32>
+  <canary64>
     <version>93.0.4558.1</version>
     <download>
       <url>https://dl.google.com/release2/chrome/AKsl0rv7v8okz06Q76A0L8M_93.0.4558.1/93.0.4558.1_chrome_installer.exe</url>
@@ -70,16 +80,6 @@
     </download>
     <sha256>45d47a3cc4e2a0839bffe60e58c39764974889118b85c8f215e882a1004d3ad8</sha256>
     <size>94037944</size>
-  </canary32>
-  <canary64>
-    <version>93.0.4558.0</version>
-    <download>
-      <url>https://dl.google.com/release2/chrome/XvSQaWxYqy2ZCVXrg38rpw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/XvSQaWxYqy2ZCVXrg38rpw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/XvSQaWxYqy2ZCVXrg38rpw_93.0.4558.0/93.0.4558.0_chrome_installer.exe</url>
-    </download>
-    <sha256>a7b0c1eb70567bd9e2570c7bc3542fb10dd1b5fe012eba4c46d7c6d8dd7b9e70</sha256>
-    <size>78735800</size>
   </canary64>
   <stablem1>
     <version>91.0.4472.124</version>
@@ -122,43 +122,43 @@
     <size>77241272</size>
   </devinter>
   <devm1>
-    <version>93.0.4549.3</version>
+    <version>93.0.4557.2</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>a784d6cc3e8cd87a67b5929df56ff73d55141160b9340d72e46be74a46ee0180</sha256>
-    <size>75682232</size>
+    <sha256>1f94f00918ae439f2dda69789aabbe81c9d77b6acb69967e9d4ac17f3a2fd2da</sha256>
+    <size>76159416</size>
   </devm1>
   <devinter>
-    <version>93.0.4549.3</version>
+    <version>93.0.4557.2</version>
     <download>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>e15ca743e95096df5a76841600d108eb5ac4a9fe084a4a5f185e0848be9a4d5d</sha256>
-    <size>78605240</size>
+    <sha256>45c9be9be6d3c6f7cff511cc26c76ef6b54fd685eca82551ab9a92a6771ab951</sha256>
+    <size>79083960</size>
   </devinter>
   <canarym1>
-    <version>93.0.4558.1</version>
+    <version>93.0.4558.0</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
+    </download>
+    <sha256>d36b5f2c4dc0852814f08d66b4e69b760982afce1dacaeb1503a13c20ff06503</sha256>
+    <size>75919800</size>
+  </canarym1>
+  <canaryinter>
+    <version>93.0.4558.1</version>
+    <download>
+      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
+      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
+      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
     </download>
     <sha256>45d47a3cc4e2a0839bffe60e58c39764974889118b85c8f215e882a1004d3ad8</sha256>
     <size>94037944</size>
-  </canarym1>
-  <canaryinter>
-    <version>93.0.4558.0</version>
-    <download>
-      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
-      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
-      <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
-    </download>
-    <sha256>a7b0c1eb70567bd9e2570c7bc3542fb10dd1b5fe012eba4c46d7c6d8dd7b9e70</sha256>
-    <size>78735800</size>
   </canaryinter>
 </chromechecker>
