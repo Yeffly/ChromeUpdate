@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-08-07 20:30:38</time>
+  <time>2021-08-08 09:03:07</time>
   <stable32>
     <version>92.0.4515.131</version>
     <download>
@@ -62,14 +62,14 @@
     <size>79151720</size>
   </dev64>
   <canary32>
-    <version>94.0.4600.0</version>
+    <version>94.0.4600.1</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/fyiiodqlwjcrlcuyygo7oidfje_94.0.4600.0/94.0.4600.0_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/fyiiodqlwjcrlcuyygo7oidfje_94.0.4600.0/94.0.4600.0_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/fyiiodqlwjcrlcuyygo7oidfje_94.0.4600.0/94.0.4600.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/e7v5l276plnzh5etqz4e6d3eqm_94.0.4600.1/94.0.4600.1_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/e7v5l276plnzh5etqz4e6d3eqm_94.0.4600.1/94.0.4600.1_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/e7v5l276plnzh5etqz4e6d3eqm_94.0.4600.1/94.0.4600.1_chrome_installer.exe</url>
     </download>
-    <sha256>266daea9e748b03b83c91d5a7cc640ee638e894044f58f25f7141bd18ed7ea70</sha256>
-    <size>77310568</size>
+    <sha256>91d9a2a1b402b6bf13cad2096ccdd2079286c1ac7983800748ded20b06d5fee3</sha256>
+    <size>77324904</size>
   </canary32>
   <canary64>
     <version>94.0.4600.0</version>
@@ -142,14 +142,14 @@
     <size>79151720</size>
   </devinter>
   <canarym1>
-    <version>94.0.4600.0</version>
+    <version>94.0.4600.1</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
     </download>
-    <sha256>266daea9e748b03b83c91d5a7cc640ee638e894044f58f25f7141bd18ed7ea70</sha256>
-    <size>77310568</size>
+    <sha256>91d9a2a1b402b6bf13cad2096ccdd2079286c1ac7983800748ded20b06d5fee3</sha256>
+    <size>77324904</size>
   </canarym1>
   <canaryinter>
     <version>94.0.4600.0</version>
