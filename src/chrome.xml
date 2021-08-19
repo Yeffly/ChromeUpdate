@@ -91,16 +91,16 @@
     <sha256>{{stable-m1-hash}}</sha256>
     <size>{{stable-m1-size}}</size>
   </stablem1>
-  <stableinter>
-    <version>{{stable-inter-version}}</version>
+  <stableintel>
+    <version>{{stable-intel-version}}</version>
     <download>
-      <url>{{stable-inter-dl-main}}</url>
-      <url>{{stable-inter-dl-alternative}}</url>
-      <url>{{stable-inter-dl-slave}}</url>
+      <url>{{stable-intel-dl-main}}</url>
+      <url>{{stable-intel-dl-alternative}}</url>
+      <url>{{stable-intel-dl-slave}}</url>
     </download>
-    <sha256>{{stable-inter-hash}}</sha256>
-    <size>{{stable-inter-size}}</size>
-  </stableinter>
+    <sha256>{{stable-intel-hash}}</sha256>
+    <size>{{stable-intel-size}}</size>
+  </stableintel>
   <devm1>
     <version>{{beta-m1-version}}</version>
     <download>
@@ -111,16 +111,16 @@
     <sha256>{{beta-m1-hash}}</sha256>
     <size>{{beta-m1-size}}</size>
   </devm1>
-  <devinter>
-    <version>{{beta-inter-version}}</version>
+  <devintel>
+    <version>{{beta-intel-version}}</version>
     <download>
-      <url>{{beta-inter-dl-main}}</url>
-      <url>{{beta-inter-dl-alternative}}</url>
-      <url>{{beta-inter-dl-slave}}</url>
+      <url>{{beta-intel-dl-main}}</url>
+      <url>{{beta-intel-dl-alternative}}</url>
+      <url>{{beta-intel-dl-slave}}</url>
     </download>
-    <sha256>{{beta-inter-hash}}</sha256>
-    <size>{{beta-inter-size}}</size>
-  </devinter>
+    <sha256>{{beta-intel-hash}}</sha256>
+    <size>{{beta-intel-size}}</size>
+  </devintel>
   <devm1>
     <version>{{dev-m1-version}}</version>
     <download>
@@ -131,16 +131,16 @@
     <sha256>{{dev-m1-hash}}</sha256>
     <size>{{dev-m1-size}}</size>
   </devm1>
-  <devinter>
-    <version>{{dev-inter-version}}</version>
+  <devintel>
+    <version>{{dev-intel-version}}</version>
     <download>
-      <url>{{dev-inter-dl-main}}</url>
-      <url>{{dev-inter-dl-alternative}}</url>
-      <url>{{dev-inter-dl-slave}}</url>
+      <url>{{dev-intel-dl-main}}</url>
+      <url>{{dev-intel-dl-alternative}}</url>
+      <url>{{dev-intel-dl-slave}}</url>
     </download>
-    <sha256>{{dev-inter-hash}}</sha256>
-    <size>{{dev-inter-size}}</size>
-  </devinter>
+    <sha256>{{dev-intel-hash}}</sha256>
+    <size>{{dev-intel-size}}</size>
+  </devintel>
   <canarym1>
     <version>{{canary-m1-version}}</version>
     <download>
@@ -151,14 +151,14 @@
     <sha256>{{canary-m1-hash}}</sha256>
     <size>{{canary-m1-size}}</size>
   </canarym1>
-  <canaryinter>
-    <version>{{canary-inter-version}}</version>
+  <canaryintel>
+    <version>{{canary-intel-version}}</version>
     <download>
-      <url>{{canary-inter-dl-main}}</url>
-      <url>{{canary-inter-dl-alternative}}</url>
-      <url>{{canary-inter-dl-slave}}</url>
+      <url>{{canary-intel-dl-main}}</url>
+      <url>{{canary-intel-dl-alternative}}</url>
+      <url>{{canary-intel-dl-slave}}</url>
     </download>
-    <sha256>{{canary-inter-hash}}</sha256>
-    <size>{{canary-inter-size}}</size>
-  </canaryinter>
+    <sha256>{{canary-intel-hash}}</sha256>
+    <size>{{canary-intel-size}}</size>
+  </canaryintel>
 </chromechecker>
