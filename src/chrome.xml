@@ -81,16 +81,16 @@
     <sha256>{{canary-x64-hash}}</sha256>
     <size>{{canary-x64-size}}</size>
   </canary64>
-  <stablem1>
-    <version>{{stable-m1-version}}</version>
+  <stableapple>
+    <version>{{stable-apple-version}}</version>
     <download>
-      <url>{{stable-m1-dl-main}}</url>
-      <url>{{stable-m1-dl-alternative}}</url>
-      <url>{{stable-m1-dl-slave}}</url>
+      <url>{{stable-apple-dl-main}}</url>
+      <url>{{stable-apple-dl-alternative}}</url>
+      <url>{{stable-apple-dl-slave}}</url>
     </download>
-    <sha256>{{stable-m1-hash}}</sha256>
-    <size>{{stable-m1-size}}</size>
-  </stablem1>
+    <sha256>{{stable-apple-hash}}</sha256>
+    <size>{{stable-apple-size}}</size>
+  </stableapple>
   <stableintel>
     <version>{{stable-intel-version}}</version>
     <download>
@@ -101,16 +101,16 @@
     <sha256>{{stable-intel-hash}}</sha256>
     <size>{{stable-intel-size}}</size>
   </stableintel>
-  <devm1>
-    <version>{{beta-m1-version}}</version>
+  <devapple>
+    <version>{{beta-apple-version}}</version>
     <download>
-      <url>{{beta-m1-dl-main}}</url>
-      <url>{{beta-m1-dl-alternative}}</url>
-      <url>{{beta-m1-dl-slave}}</url>
+      <url>{{beta-apple-dl-main}}</url>
+      <url>{{beta-apple-dl-alternative}}</url>
+      <url>{{beta-apple-dl-slave}}</url>
     </download>
-    <sha256>{{beta-m1-hash}}</sha256>
-    <size>{{beta-m1-size}}</size>
-  </devm1>
+    <sha256>{{beta-apple-hash}}</sha256>
+    <size>{{beta-apple-size}}</size>
+  </devapple>
   <devintel>
     <version>{{beta-intel-version}}</version>
     <download>
@@ -121,16 +121,16 @@
     <sha256>{{beta-intel-hash}}</sha256>
     <size>{{beta-intel-size}}</size>
   </devintel>
-  <devm1>
-    <version>{{dev-m1-version}}</version>
+  <devapple>
+    <version>{{dev-apple-version}}</version>
     <download>
-      <url>{{dev-m1-dl-main}}</url>
-      <url>{{dev-m1-dl-alternative}}</url>
-      <url>{{dev-m1-dl-slave}}</url>
+      <url>{{dev-apple-dl-main}}</url>
+      <url>{{dev-apple-dl-alternative}}</url>
+      <url>{{dev-apple-dl-slave}}</url>
     </download>
-    <sha256>{{dev-m1-hash}}</sha256>
-    <size>{{dev-m1-size}}</size>
-  </devm1>
+    <sha256>{{dev-apple-hash}}</sha256>
+    <size>{{dev-apple-size}}</size>
+  </devapple>
   <devintel>
     <version>{{dev-intel-version}}</version>
     <download>
@@ -141,16 +141,16 @@
     <sha256>{{dev-intel-hash}}</sha256>
     <size>{{dev-intel-size}}</size>
   </devintel>
-  <canarym1>
-    <version>{{canary-m1-version}}</version>
+  <canaryapple>
+    <version>{{canary-apple-version}}</version>
     <download>
-      <url>{{canary-m1-dl-main}}</url>
-      <url>{{canary-m1-dl-alternative}}</url>
-      <url>{{canary-m1-dl-slave}}</url>
+      <url>{{canary-apple-dl-main}}</url>
+      <url>{{canary-apple-dl-alternative}}</url>
+      <url>{{canary-apple-dl-slave}}</url>
     </download>
-    <sha256>{{canary-m1-hash}}</sha256>
-    <size>{{canary-m1-size}}</size>
-  </canarym1>
+    <sha256>{{canary-apple-hash}}</sha256>
+    <size>{{canary-apple-size}}</size>
+  </canaryapple>
   <canaryintel>
     <version>{{canary-intel-version}}</version>
     <download>

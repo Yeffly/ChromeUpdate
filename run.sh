@@ -16,7 +16,7 @@ chmod +x ./util/generator-mac.sh
 
 ./util/parse.sh stable-x86 stable-x64 beta-x86 beta-x64 dev-x86 dev-x64 canary-x86 canary-x64
 
-./util/parse-mac.sh stable-intel stable-m1 beta-intel beta-m1 dev-intel dev-m1 canary-intel canary-m1
+./util/parse-mac.sh stable-intel stable-apple beta-intel beta-apple dev-intel dev-apple canary-intel canary-apple
 
 cp -rf src/index.html tmp/index.html
 cp -rf src/chrome.xml tmp/chrome.xml
@@ -27,7 +27,7 @@ sed -i "s|{{CheckTime}}|$DATE|g" tmp/chrome.xml
 
 ./util/generator.sh stable-x86 stable-x64 beta-x86 beta-x64 dev-x86 dev-x64 canary-x86 canary-x64
 
-./util/generator-mac.sh stable-intel stable-m1 beta-intel beta-m1 dev-intel dev-m1 canary-intel canary-m1
+./util/generator-mac.sh stable-intel stable-apple beta-intel beta-apple dev-intel dev-apple canary-intel canary-apple
 
 xmllint --format tmp/chrome.xml > tmp/api/chrome.xml
 xmllint --noblanks tmp/chrome.xml > tmp/api/chrome.min.xml
