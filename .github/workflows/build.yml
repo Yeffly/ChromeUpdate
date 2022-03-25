@@ -29,7 +29,16 @@ jobs:
       # 安装依赖
       - name: 安装依赖
         run: |
-          sudo apt-get -y install libxml2-utils
+          sudo apt-get -y install libxml2-utils        
+           
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
           
       # Runs a single command using the runners shell
       - name: Run Build Script
@@ -37,6 +46,7 @@ jobs:
           cd $GITHUB_WORKSPACE
           sudo chmod +x run.sh
           ./run.sh
+          
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
