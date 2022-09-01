@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2022-09-01 09:07:35</time>
+  <time>2022-09-01 20:24:59</time>
   <stable32>
     <version>105.0.5195.54</version>
     <download>
@@ -72,14 +72,14 @@
     <size>86869552</size>
   </canary32>
   <canary64>
-    <version>107.0.5273.2</version>
+    <version>107.0.5274.0</version>
     <download>
-      <url>https://dl.google.com/release2/chrome/pl5ymt2ysrqbiih2tube2c6dom_107.0.5273.2/107.0.5273.2_chrome_installer.exe</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/pl5ymt2ysrqbiih2tube2c6dom_107.0.5273.2/107.0.5273.2_chrome_installer.exe</url>
-      <url>https://www.google.com/dl/release2/chrome/pl5ymt2ysrqbiih2tube2c6dom_107.0.5273.2/107.0.5273.2_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/msm5kbzhrchhj73xnlvqxoejeq_107.0.5274.0/107.0.5274.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/msm5kbzhrchhj73xnlvqxoejeq_107.0.5274.0/107.0.5274.0_chrome_installer.exe</url>
+      <url>https://www.google.com/dl/release2/chrome/msm5kbzhrchhj73xnlvqxoejeq_107.0.5274.0/107.0.5274.0_chrome_installer.exe</url>
     </download>
-    <sha256>2e664bbfa9b61736bd625e82d571b2f3bd2318efe66ce5d729853be078fc78d4</sha256>
-    <size>91635248</size>
+    <sha256>7d692fb5b0d99c3b73b2f85e81adbdc23190a5edc67019757fed1434432cad2d</sha256>
+    <size>91782704</size>
   </canary64>
   <stableapple>
     <version>105.0.5195.54</version>
@@ -152,13 +152,13 @@
     <size>86869552</size>
   </canaryapple>
   <canaryintel>
-    <version>107.0.5273.2</version>
+    <version>107.0.5274.0</version>
     <download>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/canary/googlechromecanary.dmg</url>
     </download>
-    <sha256>2e664bbfa9b61736bd625e82d571b2f3bd2318efe66ce5d729853be078fc78d4</sha256>
-    <size>91635248</size>
+    <sha256>7d692fb5b0d99c3b73b2f85e81adbdc23190a5edc67019757fed1434432cad2d</sha256>
+    <size>91782704</size>
   </canaryintel>
 </chromechecker>
