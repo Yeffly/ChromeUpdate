@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2022-11-07 20:28:59</time>
+  <time>2022-11-08 09:06:52</time>
   <stable32>
     <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=--channelVALUE=stableATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=107.0.5304.88_chrome_installer.exe</version>
     <download>
@@ -62,13 +62,13 @@
     <size>ENDmanifest</size>
   </dev64>
   <canary32>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--do-not-launch-chromeATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5403.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--do-not-launch-chromeATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5407.0_chrome_installer.exe</version>
     <download>
-      <url>https://www.google.com/dl/release2/chrome/godosj2ruxdiyu7dngv3zhrzcy_109.0.5403.0/ENDpackages</url>
-      <url>https://dl.google.com/release2/chrome/godosj2ruxdiyu7dngv3zhrzcy_109.0.5403.0/ENDpackages</url>
-      <url>https://109.0.5403.0ENDpackages</url>
+      <url>https://www.google.com/dl/release2/chrome/ctp3lqut5eq34xlzqwlo7tzv6e_109.0.5407.0/ENDpackages</url>
+      <url>https://dl.google.com/release2/chrome/ctp3lqut5eq34xlzqwlo7tzv6e_109.0.5407.0/ENDpackages</url>
+      <url>https://109.0.5407.0ENDpackages</url>
     </download>
-    <sha256>89215528</sha256>
+    <sha256>89159208</sha256>
     <size>ENDmanifest</size>
   </canary32>
   <canary64>
@@ -142,13 +142,13 @@
     <size>ENDmanifest</size>
   </devintel>
   <canaryapple>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--do-not-launch-chromeATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5403.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--do-not-launch-chromeATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5407.0_chrome_installer.exe</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</url>
     </download>
-    <sha256>89215528</sha256>
+    <sha256>89159208</sha256>
     <size>ENDmanifest</size>
   </canaryapple>
   <canaryintel>
