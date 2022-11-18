@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2022-11-17 20:26:12</time>
+  <time>2022-11-18 09:08:48</time>
   <stable32>
     <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=--channelVALUE=stableATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=107.0.5304.107_chrome_installer.exe</version>
     <download>
@@ -42,23 +42,23 @@
     <size>ENDmanifest</size>
   </beta64>
   <dev32>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5410.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.10_chrome_installer.exe</version>
     <download>
-      <url>https://www.google.com/dl/release2/chrome/kjo6xzzmgvsme544oigfzgkdmi_109.0.5410.0/ENDpackages</url>
-      <url>https://dl.google.com/release2/chrome/kjo6xzzmgvsme544oigfzgkdmi_109.0.5410.0/ENDpackages</url>
-      <url>https://109.0.5410.0ENDpackages</url>
+      <url>https://www.google.com/dl/release2/chrome/adja43pioaxpcgeu7bv7udd4qruq_109.0.5414.10/ENDpackages</url>
+      <url>https://dl.google.com/release2/chrome/adja43pioaxpcgeu7bv7udd4qruq_109.0.5414.10/ENDpackages</url>
+      <url>https://109.0.5414.10ENDpackages</url>
     </download>
-    <sha256>89155112</sha256>
+    <sha256>89233448</sha256>
     <size>ENDmanifest</size>
   </dev32>
   <dev64>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5410.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.10_chrome_installer.exe</version>
     <download>
-      <url>https://www.google.com/dl/release2/chrome/m273docpo4632wyi7oe4jreiwi_109.0.5410.0/ENDpackages</url>
-      <url>https://dl.google.com/release2/chrome/m273docpo4632wyi7oe4jreiwi_109.0.5410.0/ENDpackages</url>
-      <url>https://109.0.5410.0ENDpackages</url>
+      <url>https://www.google.com/dl/release2/chrome/adz7ocjyhcubkyg6xdqvsilvmgbq_109.0.5414.10/ENDpackages</url>
+      <url>https://dl.google.com/release2/chrome/adz7ocjyhcubkyg6xdqvsilvmgbq_109.0.5414.10/ENDpackages</url>
+      <url>https://109.0.5414.10ENDpackages</url>
     </download>
-    <sha256>93005352</sha256>
+    <sha256>93151784</sha256>
     <size>ENDmanifest</size>
   </dev64>
   <canary32>
@@ -122,23 +122,23 @@
     <size>ENDmanifest</size>
   </devintel>
   <devapple>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5410.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.10_chrome_installer.exe</version>
     <download>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>89155112</sha256>
+    <sha256>89233448</sha256>
     <size>ENDmanifest</size>
   </devapple>
   <devintel>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5410.0_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.10_chrome_installer.exe</version>
     <download>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
       <url>https://dl.google.com/chrome/mac/dev/googlechromedev.dmg</url>
     </download>
-    <sha256>93005352</sha256>
+    <sha256>93151784</sha256>
     <size>ENDmanifest</size>
   </devintel>
   <canaryapple>
