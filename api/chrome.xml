@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2023-02-27 08:58:31</time>
+  <time>2023-02-27 20:23:13</time>
   <stable32>
     <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.120_chrome_installer.exe</version>
     <download>
@@ -12,13 +12,13 @@
     <size>ENDmanifest</size>
   </stable32>
   <stable64>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.120_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.129_chrome_installer.exe</version>
     <download>
-      <url>https://www.google.com/dl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/ENDpackages</url>
-      <url>https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/ENDpackages</url>
-      <url>https://109.0.5414.120ENDpackages</url>
+      <url>https://www.google.com/dl/release2/chrome/juzaykgd5e6nyvk27fwtbrjgoa_109.0.5414.129/ENDpackages</url>
+      <url>https://dl.google.com/release2/chrome/juzaykgd5e6nyvk27fwtbrjgoa_109.0.5414.129/ENDpackages</url>
+      <url>https://109.0.5414.129ENDpackages</url>
     </download>
-    <sha256>93122600</sha256>
+    <sha256>93127208</sha256>
     <size>ENDmanifest</size>
   </stable64>
   <beta32>
@@ -92,13 +92,13 @@
     <size>ENDmanifest</size>
   </stableapple>
   <stableintel>
-    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.120_chrome_installer.exe</version>
+    <version>ELEMENT=actionATTRIBUTE=argumentsVALUE=--verbose-loggingATTRIBUTE=eventVALUE=installATTRIBUTE=runVALUE=109.0.5414.129_chrome_installer.exe</version>
     <download>
       <url>https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg</url>
       <url>https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg</url>
       <url>https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg</url>
     </download>
-    <sha256>93122600</sha256>
+    <sha256>93127208</sha256>
     <size>ENDmanifest</size>
   </stableintel>
   <devapple>
